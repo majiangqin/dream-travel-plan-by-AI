@@ -21,13 +21,13 @@ import { vertexAI } from '@genkit-ai/vertexai';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBT_DIkIH7OuAoG4lNheR0BE0svDNgMM5k",
+  apiKey: "",
   authDomain: "kidbank-app.firebaseapp.com",
   projectId: "kidbank-app",
   storageBucket: "kidbank-app.appspot.com",
-  messagingSenderId: "890160777266",
-  appId: "1:890160777266:web:be31c518c2364b9d4f542b",
-  measurementId: "G-C351CR82SL"
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 export const getProjectId = () => {
